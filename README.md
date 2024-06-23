@@ -1,2 +1,2 @@
-# ROTENETRIALCSI.exe-PACK
-Finally I Made 64bit Malware
+# ROTENETRIALCSI
+C++ short skidded GDI trojan by Hugopako
